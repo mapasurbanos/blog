@@ -10,10 +10,10 @@ Actualmente trabajo en el departamento de Territorio y Sostenibilidad de la Gene
 He participado en distintos proyectos de investigación sobre temas urbanos, sociales y de salud pública (Universidad de Sevilla, Universidad de Barcelona, GREDS-CEEISCAT), trabajando en la coordinación y el diseño de proyectos cartográficos, el análisis y visualización de datos geográficos  con  Sistemas de Información Geográfica y en la redacción de documentos de planificación urbanística y territorial (Generalitat de Catalunya, Ayuntamiento de Carmona, Territorio y Ciudad, Jornet-Llop-Pastor arquitectes).
 
 Mi interés por las prácticas cartográficas se ha desarrollado a distintos niveles complementarios:
-	•	a un nivel profesional, con la participación en proyectos multidisciplinarios de cartografía, SIG y diseño cartográfico (con arquitectos, psicólogos, epidemólogos, historiadoras, antropólogas, activistas).
-	•	Como investigadora, utilizando los mapas como fuente de información para la investigación sobre el paisaje histórico urbano 
-	•	como tema de investigación. Mi tesis doctoral, defendida en julio de 2018, plantea una reflexión crítica sobre las prácticas cartográficas urbanas actuales y una propuesta metodológica para integrarlas en la investigación social, en especial desde la geografía. En este blog recojo algunas de las ideas principales de mi investigación actual sobre los mapas urbanos y un conjunto de casos y proyectos recientes.
-researchgate
+- a un nivel profesional, con la participación en proyectos multidisciplinarios de cartografía, SIG y diseño cartográfico (con arquitectos, psicólogos, epidemólogos, historiadoras, antropólogas, activistas).
+- Como investigadora urbana, utilizando los mapas como fuente de información para la investigación sobre el paisaje histórico urbano 
+- como tema de investigación. Mi tesis doctoral, defendida en julio de 2018, plantea una reflexión crítica sobre las prácticas cartográficas urbanas actuales y una propuesta metodológica para integrarlas en la investigación social desde un punto de vista feminista y crítico. En este blog recojo algunas de las ideas principales de mi investigación actual sobre los mapas urbanos y un conjunto de casos y proyectos recientes.
+[[Link](https://www.researchgate.net/profile/Nuria-Font-Casaseca)/researchgate](url)
 
 
 
